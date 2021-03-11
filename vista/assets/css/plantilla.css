@@ -1,23 +1,36 @@
 .categoriaPrueba{
     margin-top: 30px;
+
+}
+
+
+.textoEncima{
+        margin-top: 120px;
+        margin-left: 220px;
+        position: absolute;
+        background-color: black;
+        color: white;
+        
+        
 }
 
 .imgPrueba{
+    margin-bottom: 20px;
     width: 300px;
 }
 
 .imgCanal{
-    margin-top: 15px;
     margin-right: 20px;
     border-radius: 100%;
     width: 48px;
     float: left;
 }
 
-.tituloPrueba{
-    margin-top: 15px;
-    margin-left: 70px;
-    font-size: 20px;
+.tituloVideo{
+    font-weight: bold;
+    font-size: 15px;
+    color: black;
+    text-decoration: none;
 
 }
 
@@ -39,3 +52,5 @@
     font-size: 17px;
     color: gray;
 }
+
+
